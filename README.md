@@ -1,7 +1,7 @@
 # Evaluation-7
 
 - Cloner le repository dans un virtual host
-- Accédez à celui-ci avec l'adresse suivante : "localhost/wordpress/eval7/" localhost étant le nom de votre virtual host
+- Accédez à celui-ci dans votre navigateur avec l'adresse suivante : "localhost/wordpress/eval7/" localhost étant le nom de votre virtual host
 - Créez une base de données vierge dans MySql
 - Cliquez sur "C'est parti"
 - Remplissez les données avec votre nom de base de données, nom d'utilisateur de la base de donnée, et le mot de passe de la base de données
